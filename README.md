@@ -1,6 +1,5 @@
 # NAVBAR
 @media screen and (max-width: 1300px){
-/*NAVBAR*/
   .somosjade{
       margin-top: 5px;
       margin-left: 195px;
